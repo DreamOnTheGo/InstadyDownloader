@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_100">
+
+    <EditText
+        android:id="@+id/web_url_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="30dp"
+        android:background="@drawable/bg_url_edit"
+        android:hint="@string/input_web_url"
+        android:imeOptions="actionGo"
+        android:padding="10dp"
+        android:singleLine="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/instagram_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="50dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/tiktok_card"
+        app:layout_constraintTop_toBottomOf="@id/web_url_edit">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/instagram" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Instagram"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@id/instagram_card"
+        app:layout_constraintRight_toRightOf="@id/instagram_card"
+        app:layout_constraintTop_toBottomOf="@id/instagram_card" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/tiktok_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="50dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintLeft_toRightOf="@+id/instagram_card"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/web_url_edit">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/tiktok" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/douyin"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@id/tiktok_card"
+        app:layout_constraintRight_toRightOf="@id/tiktok_card"
+        app:layout_constraintTop_toBottomOf="@id/tiktok_card" />
+</androidx.constraintlayout.widget.ConstraintLayout>

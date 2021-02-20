@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/setting">
+        <menu>
+            <item
+                android:id="@+id/download_setting"
+                android:icon="@drawable/ic_download_2"
+                android:title="@string/download_setting" />
+            <item
+                android:id="@+id/storage_setting"
+                android:icon="@drawable/ic_save"
+                android:title="@string/storage_setting" />
+        </menu>
+    </item>
+    <item android:title="@string/others">
+        <menu>
+            <item
+                android:id="@+id/share_app"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share_app" />
+            <item
+                android:id="@+id/support_app"
+                android:icon="@drawable/ic_star"
+                android:title="@string/praise_app" />
+            <item
+                android:id="@+id/support_us"
+                android:icon="@drawable/ic_money"
+                android:title="@string/support_us" />
+        </menu>
+    </item>
+</menu>
