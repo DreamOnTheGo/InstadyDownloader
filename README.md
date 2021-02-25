@@ -9,3 +9,11 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/2_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/3_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/4_show.jpg" width="190"/> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/5_show.jpg" width="190"/>
 
 下载链接: [instady下载器V1.0](https://github.com/xuedongyun/InstadyDownloader/releases/tag/1.0)
+
+|作者|果冻虾仁|
+|---|---
+|酷安|[![coolapk-shield]][酷安]
+|公众号|编程往事
+
+
+[coolapk-shield]://static.coolapk.com/static/web/v8/images/header-logo.png
