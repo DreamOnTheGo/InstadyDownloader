@@ -12,8 +12,8 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 
 |作者|果冻虾仁|
 |---|---
-|酷安|[![coolapk-shield]][酷安]
-|公众号|编程往事
+|酷安|[![coolapk-shield][酷安]
+|QQ|2365042436
 
 
 [coolapk-shield]:http://static.coolapk.com/static/web/v8/images/coolapklogo.png
