@@ -5,5 +5,5 @@
 
 ins和抖音本身只提供了有限的下载能力，甚至未提供下载功能。本软件可以帮助您保存感兴趣的资源。只需要粘贴分享链接并解析，即可获取我们想要的视频或图片。也可以使用软件内置浏览器，在Instagram或抖音网页版中获取对应的资源。
 
-<img src="./show_1.jpg" width="200"/> <img src="./show_2.jpg" width="300"/> <img src="./show_3.jpg" width="300"/>
+<img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg" width="200"/> <img src="./show_2.jpg" width="300"/> <img src="./show_3.jpg" width="300"/>
 <img src="./show_4.jpg" width="200"/> <img src="./show_5.jpg" width="300"/>
