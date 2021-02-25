@@ -4,6 +4,4 @@
 本应用无特殊权限，无广告。帮助您安全便捷地解析分享链接中的资源。全尺寸无水印，免费无广告......
 
 ins和抖音本身只提供了有限的下载能力，甚至未提供下载功能。本软件可以帮助您保存感兴趣的资源。只需要粘贴分享链接并解析，即可获取我们想要的视频或图片。也可以使用软件内置浏览器，在Instagram或抖音网页版中获取对应的资源。
-<center class="half">
-    <img src="./1_show.jpg" width="200"/><img src="./2_show.jpg" width="200"/><img src="./3_show.jpg" width="200"/>
-</center>
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
