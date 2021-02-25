@@ -16,4 +16,4 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 |公众号|编程往事
 
 
-[coolapk-shield]://static.coolapk.com/static/web/v8/images/header-logo.png
+[coolapk-shield]:http://static.coolapk.com/static/web/v8/images/header-logo.png
