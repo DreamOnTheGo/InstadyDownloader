@@ -8,12 +8,11 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 
 <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/2_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/3_show.jpg" width="190" /> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/4_show.jpg" width="190"/> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/5_show.jpg" width="190"/>
 
+# Github realse链接
 下载链接: [instady下载器V1.0](https://github.com/xuedongyun/InstadyDownloader/releases/tag/1.0)
 
+# 作者信息
 |作者|下大雨123|
 |---|---
 |酷安|下大雨123
 |QQ|2365042436
-
-
-[coolapk-shield]:http://static.coolapk.com/static/web/v8/images/coolapklogo.png
