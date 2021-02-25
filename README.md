@@ -8,9 +8,7 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 
 <center>
 <figure>
-<img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg" width="200px" />
-<img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/2_show.jpg" width="200px" />
-<img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/3_show.jpg" width="200px" />
+<img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg" width="200px" /><img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/2_show.jpg" width="200px" /><img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/3_show.jpg" width="200px" />
 </figure>
 </center>
 
