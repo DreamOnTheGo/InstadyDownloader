@@ -9,4 +9,4 @@ ins和抖音本身只提供了有限的下载能力，甚至未提供下载功�
 
 <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/4_show.jpg" width="200"/> <img src="https://github.com/xuedongyun/InstadyDownloader/blob/master/5_show.jpg" width="200"/>
 
-![image]("https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg")
+![image](https://github.com/xuedongyun/InstadyDownloader/blob/master/1_show.jpg) ![image](https://github.com/xuedongyun/InstadyDownloader/blob/master/2_show.jpg)
